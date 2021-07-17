@@ -2,17 +2,17 @@
 
 Coronavírus é uma família de vírus que, a partir de dezembro de 2019, passou a provocar uma doença infeciosa que chamamos de COVID-19 (coronavírus). O vírus é facilmente tranmitido, podendo causar graves infecções respiratórias que podem levar a morte, tornando-o um vírus temido por toda população global.
 
-# Introdução
+# 💡 Introdução
 
 Olá, meu nome é Sara Zachi, e esse é meu repositório referente ao projeto do módulo 3 do [Bootcamp De Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) promovido pela [Alura](https://www.alura.com.br/) sobre análise de séries temporais. O objetivo desse projeto é realizar um Modelo de Previsão para o número de casos de COVID-19 em Peranambuco (PE) e no Paraná (PA) a fim de comparar os dois modelos para determinar a direção de ações futuras contra a pandemia do coronavírus.
 
-# Dados explorados
+# 📊 Dados explorados
 
 Nesse repositório vamos explorar os dados do número de casos de COVIS-19 disponível no Brasil.IO
 * Fonte: Secretarias de Saúde das Unidades Federativas, dados tratados por Álvaro Justen e equipe de voluntários [Brasil.IO](https://brasil.io/home/)
 * Brasil.IO: boletins epidemiológicos da COVID-19 por município por dia, disponível em: https://brasil.io/dataset/covid19/caso_full/ (última atualização: 02 de Julho de 2021, acesso em 02 de Julho de 2021).
 
-# Estrutura do projeto
+# 📁 Estrutura do projeto
 
 O repositório deste projeto contém duas pastas:
 * Notebooks, ontendo os notebooks de [pré análise do banco de dados](https://github.com/SaraZachi/Modelo-Previsao_COVID19/blob/main/Notebooks/01_Primeiras_an%C3%A1lises.ipynb) e notebooks da confexão do Modelo de Previsão do [PA](https://github.com/SaraZachi/Modelo-Previsao_COVID19/blob/main/Notebooks/02_Modelo_de_valida%C3%A7%C3%A3o_PA.ipynb) e de [PE](https://github.com/SaraZachi/Modelo-Previsao_COVID19/blob/main/Notebooks/03_Modelo_de_valida%C3%A7%C3%A3o_PE.ipynb);
@@ -27,7 +27,7 @@ Além dessas duas pastas, há um outro notebook, nomeado ['Análise_comparativa_
   6. Projetos futuros propostos;
   7. Referências.
 
-# Tecnologias utilizadas 💻
+# 🖥️ Tecnologias utilizadas 
 O referente projeto foi realizado utilizando a linguagem Python através do google Colaboratory. 
 As bibliotecas utilizadas foram:
 * Pandas: biblioteca usada para manipulação de dados;
@@ -37,4 +37,4 @@ As bibliotecas utilizadas foram:
 * fbprophet: Procedimento para prever dados de séries temporais com base em um modelo aditivo, onde as tendências não lineares se ajustam à sazonalidade anual, semanal e diária, além dos efeitos do feriado;
 * Sklearn: biblioteca de aprendizado de máquina.
 
-# Contatos ☎️
+# ☎️ Contatos 
